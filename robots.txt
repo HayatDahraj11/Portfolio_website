@@ -8,5 +8,5 @@ Allow: /
 # Disallow: /assets/
 # Disallow: /private/
 
-# Sitemap location (update with your actual domain)
-Sitemap: https://hayatsikandar.com/sitemap.xml
+# Sitemap location
+Sitemap: https://hayatdahraj.netlify.app/sitemap.xml
